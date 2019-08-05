@@ -7,6 +7,6 @@ Android Splash Screen + Webview + Pull to Refresh
 
 
 
-More Question ?
+More Questions ?
 --------------
-ardhityawiedhairawan@gmail.com  -
+me@moveweight.net  -
