@@ -1,4 +1,4 @@
-Android Splash Screen + Webview + Pull to Refresh
+Android Web Browser Splash Screen + Webview + Pull to Refresh
 --------------
 <img src="screenshot1.png" width="500"/>
 
